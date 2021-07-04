@@ -1,0 +1,23 @@
+{
+  "name": "youtube-clone",
+  "version": "1.0.0",
+  "description": "YouTube site layout clone",
+  "scripts": {
+    "start": "parcel serve ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MNITD/youtube-clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MNITD/youtube-clone/issues"
+  },
+  "homepage": "https://github.com/MNITD/youtube-clone#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.0.0-beta.3.1",
+    "parcel": "^2.0.0-beta.3.1"
+  }
+}

@@ -1,0 +1,13 @@
+.DS_Store
+node_modules
+
+#idea & code config
+.idea
+.code
+.env
+.env*
+
+dist
+build
+
+.parcel-cache
