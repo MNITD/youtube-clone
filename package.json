@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "YouTube site layout clone",
   "scripts": {
-    "start": "parcel serve ./src/index.html",
+    "start": "parcel serve ./src/index.html --open",
     "build": "parcel build ./src/index.html"
   },
   "repository": {
