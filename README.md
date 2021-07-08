@@ -6,19 +6,23 @@
 ```bash
 git clone https://github.com/YOURNAME/youtube-clone.git
 ```
-3. Create a new branch for a feature:
+3. Move to directory
+```bash
+cd youtube-clone
+```
+4. Create a new branch for a feature:
 ```bash
 git checkout -b feature/first-task
 ```
-4. Commit changes:
+5. Commit changes:
 ```bash
 git commit -m "[feat] add some new elements of layout"
 ```
-5. Push the branch to remote:
+6. Push the branch to remote:
 ```bash
 git push -u origin feature/first-task
 ```
-5. Create a Pull Request for the branch on GitHub UI `master` branch
+7. Create a Pull Request for the branch on GitHub UI `master` branch
 
 ## Development
 1. Install node modules:
