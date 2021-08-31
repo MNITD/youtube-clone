@@ -16,7 +16,7 @@ git checkout -b feature/first-task
 ```
 5. Commit changes:
 ```bash
-git commit -m "[feat] add some new elements of layout"
+git add . && git commit -m "[feat] add some new elements of layout"
 ```
 6. Push the branch to remote:
 ```bash
