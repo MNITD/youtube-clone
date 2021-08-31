@@ -4,3 +4,12 @@ body {
   color: $textPrimary;
   background-color: $actionBtn;
 }
+
+.container {
+  p {
+    color: blue;
+  }
+  h2 {
+    color: green;
+  }
+}
